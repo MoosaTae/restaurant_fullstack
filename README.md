@@ -64,4 +64,4 @@ We have 2 ways to install this application:
     ```sh
         bun run start
     ```
-2. Open your browser and visit http://localhost:3001 and `document on`: http://localhost:3001/swagger
+2. Open your browser and visit http://localhost:3000 and `document on`: http://localhost:3000/swagger
