@@ -1,4 +1,10 @@
 # Restaurant Reservation application
+A full-stack application for managing restaurant reservations.
+
+
+![Screenshot 1](docs/images/screenshot-1.png)
+![Screenshot 2](docs/images/screenshot-2.png)
+![Screenshot 3](docs/images/screenshot-3.png)
 
 # Installation
 
